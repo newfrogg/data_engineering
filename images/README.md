@@ -4,3 +4,7 @@
 
 **Fig: Data Science Hierarchy**
 ![Data Science Hierarchy](data_science_hierarchy.png)
+
+**Fig: Invalid amount data**
+
+![Invalid amount data](invalid_amount.png)
