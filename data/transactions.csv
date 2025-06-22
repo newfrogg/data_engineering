@@ -1,0 +1,16 @@
+transaction_id,customer_name,amount,date,category
+1,John Doe,50.25,2025-06-01,Food
+2,Jane Smith,120.50,2025-06-02,Electronics
+3,Alice Johnson,30.00,2025-06-03,Clothing
+4,John Doe,75.80,2025-06-03,Food
+5,Bob Wilson,200.00,2025-06-04,Electronics
+6,Jane Smith,15.99,2025-06-05,Books
+7,Alice Johnson,45.60,2025-06-06,Clothing
+8,John Doe,-10.00,2025-06-07,Food
+9,Emma Davis,80.00,2025-06-08,Electronics
+10,Bob Wilson,25.50,2025-06-09,Books
+11,Jane Smith,60.75,2025-06-10,Food
+12,Invalid User,abc,2025-06-11,Clothing
+13,Emma Davis,90.20,2025-06-12,Electronics
+14,John Doe,35.40,2025-06-13,Books
+15,Alice Johnson,70.00,2025-06-14,Clothing
