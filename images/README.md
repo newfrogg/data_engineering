@@ -8,3 +8,6 @@
 **Fig: Invalid amount data**
 
 ![Invalid amount data](invalid_amount.png)
+
+**Fig: Sample data pipeline**
+![Sample data pipeline](data_pipeline.png)
