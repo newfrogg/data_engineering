@@ -11,3 +11,9 @@
 
 **Fig: Sample data pipeline**
 ![Sample data pipeline](data_pipeline.png)
+
+**Fig: Cyberchase Database Structure**
+![Sample data pipeline](cyberchase_db_structure.png)
+
+**Fig: LongList ER Diagram**
+![Sample data pipeline](longlist_ERdiagram.png)
