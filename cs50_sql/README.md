@@ -6,5 +6,5 @@
   - [Introduction](https://cdn.cs50.net/sql/2023/x/lectures/0/lecture0.pdf)
     
 - Notes:
-  - [Introduction](./00.introduction.md)
+  - [Introduction](./notes/00.introduction.md)
   
