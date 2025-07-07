@@ -10,10 +10,17 @@
 ![Invalid amount data](invalid_amount.png)
 
 **Fig: Sample data pipeline**
+
 ![Sample data pipeline](data_pipeline.png)
 
 **Fig: Cyberchase Database Structure**
-![Sample data pipeline](cyberchase_db_structure.png)
+
+![Cyberchase Database Structure](cyberchase_db_structure.png)
 
 **Fig: LongList ER Diagram**
-![Sample data pipeline](longlist_ERdiagram.png)
+
+![LongList ER Diagram](longlist_ERdiagram.png)
+
+**Fig: Longlist version 2 Database Structure**
+
+![Longlist version 2 Database Structure](./longlist_v2_db_structure.png)
