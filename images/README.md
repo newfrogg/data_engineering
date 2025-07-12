@@ -32,3 +32,7 @@
 **Fig: DESE ER Diagram**
 
 ![DESE ER Diagram](dese_ERD.png)
+
+**Fig: Monkeyball ER Diagram**
+
+![Monkeyball ER Diagram](monkeyball_ERD.png)
