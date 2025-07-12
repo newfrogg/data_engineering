@@ -28,3 +28,7 @@
 **Fig: Package ER Diagram**
 
 ![Package ER Diagram](package_ERD.png)
+
+**Fig: DESE ER Diagram**
+
+![DESE ER Diagram](dese_ERD.png)
