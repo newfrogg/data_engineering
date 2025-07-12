@@ -11,3 +11,4 @@
   - [01.sea_lions_sample.sql](./01.sea_lions_sample.sql).
 - Problem Set 1 - Solving:
   - [01.packages.sql](./01.packages.sql)
+  - [01.dese.sql](./01.dese.sql)
