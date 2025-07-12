@@ -24,3 +24,15 @@
 **Fig: Longlist version 2 Database Structure**
 
 ![Longlist version 2 Database Structure](./longlist_v2_db_structure.png)
+
+**Fig: Package ER Diagram**
+
+![Package ER Diagram](package_ERD.png)
+
+**Fig: DESE ER Diagram**
+
+![DESE ER Diagram](dese_ERD.png)
+
+**Fig: Monkeyball ER Diagram**
+
+![Monkeyball ER Diagram](monkeyball_ERD.png)
