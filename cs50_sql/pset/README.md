@@ -1,4 +1,4 @@
-# Problem set Solving:
+# Problem set:
 - Problem Set 0:
   - [00.cyberchase.sql](./00.cyberchase.sql)
   - [00.normals.sql](./00.normals.sql)
