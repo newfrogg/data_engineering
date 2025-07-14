@@ -40,3 +40,8 @@
 **Fig: Boston Subway Map**
 
 ![Boston Subway Map](subwaymap.jpg)
+
+**Fig: Subway Map ERD**
+
+![Subway Map ERD](subwayER.jpg)
+
