@@ -49,4 +49,8 @@
 
 ![Subway Map ERD with types](subway_erd_wtypes.jpg)
 
+**Fig: New Subway Map ERD**
+
+![New Subway Map ERD](subway_ERD_new.jpg)
+
 
