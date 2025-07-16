@@ -53,4 +53,7 @@
 
 ![New Subway Map ERD](subway_ERD_new.jpg)
 
+**Fig: ATL ERD**
+
+![ATL ERD](atl_ERD.png)
 
