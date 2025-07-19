@@ -9,3 +9,4 @@
   - [01.monkeyball.sql](./01.monkeyball.sql)
 - Problem Set 2:
   - [02.atl.sql](./02.atl.sql)
+  - [02.connect.sql](./02.connect.sql)
