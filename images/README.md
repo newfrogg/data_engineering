@@ -36,3 +36,24 @@
 **Fig: Monkeyball ER Diagram**
 
 ![Monkeyball ER Diagram](monkeyball_ERD.png)
+
+**Fig: Boston Subway Map**
+
+![Boston Subway Map](subwaymap.jpg)
+
+**Fig: Subway Map ERD**
+
+![Subway Map ERD](subwayER.jpg)
+
+**Fig: Subway Map ERD with types**
+
+![Subway Map ERD with types](subway_erd_wtypes.jpg)
+
+**Fig: New Subway Map ERD**
+
+![New Subway Map ERD](subway_ERD_new.jpg)
+
+**Fig: ATL ERD**
+
+![ATL ERD](atl_ERD.png)
+
