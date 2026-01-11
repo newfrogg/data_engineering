@@ -274,13 +274,6 @@ It’s a small feature but surprisingly impactful for education and internal tra
 
 Think of it as “auto-whiteboard mode for one topic”.
 
-## Get ABV’s stories in your inbox
-
-Join Medium for free to get updates from this writer.
-
-Subscribe
-
-Subscribe
 
 **_If they ever wire Dynamic View + NotebookLM together properly, Google might own the entire “teach me this thing with visuals” pipeline._**
 
