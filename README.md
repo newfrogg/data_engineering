@@ -5,7 +5,8 @@
 - [JSON parser](https://jsonformatter.org/json-viewer)
 - [HTML Parser](https://jsonformatter.org/html-viewer)
 - [Excalidraw](https://excalidraw.com)
-- [url2md](https://jsongpt.com/converter/url-to-markdown)
+- [JsonGPT](https://jsongpt.com/converter/url-to-markdown)
+- [SiteGPT](https://sitegpt.ai/tools/convert-webpage-to-markdown)
 
 ## Useful links
 - [CS50 SQL](https://cs50.harvard.edu/sql)
